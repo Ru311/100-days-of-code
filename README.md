@@ -59,7 +59,7 @@ Below are the problems I solved for practice:
 
 
 ### Day-8
-From this day onwards I will start practicing problems of the first Data Structure **Array**
+From this day onwards I will start practicing problems of the first Data Structure **Array**<br>
 I will solve total 50 questions
 
 1. [ Array1](https://github.com/Ru311/100-days-of-code/blob/master/Array1.cpp)
@@ -113,9 +113,9 @@ I will solve total 50 questions
 33. [ Array]()
 
 ### Day-17
-34. [ Array]()
-35. [ Array]()
+34. [candles](https://github.com/Ru311/100-days-of-code/blob/master/candles.cpp)
+35. [max gap](https://github.com/Ru311/100-days-of-code/blob/master/max%20gap.cpp)
 
 ### Day-18
-36. [ Array]()
-37. [ Array]()
+36. [Total count](https://github.com/Ru311/100-days-of-code/blob/master/Total%20count.cpp)
+37. [longest subarray](https://github.com/Ru311/100-days-of-code/blob/master/longest%20subarray.cpp)
