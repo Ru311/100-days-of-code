@@ -7,7 +7,7 @@ Here, I will be posting my codes from #100daysofcoding challenge
 • Templates
 • File handling
 
-[Notes](https://github.com/Ru311/100-days-of-code/commit/765432bec8cd8d1ba955d67e31c14f3a62c4ea25)
+[Notes](https://github.com/Ru311/100-days-of-code/blob/master/DAY%201.pdf)
 
 ### Day-2
 
