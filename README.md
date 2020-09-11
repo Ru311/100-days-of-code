@@ -1,5 +1,5 @@
 # 100-days-of-code
-Here, I will be posting my codes from #100daysofcoding challenge
+Here, I will be posting my notes & codes from #100daysofcoding challenge
 ### Day-1
 
 • Virtual Functions
@@ -11,16 +11,19 @@ Here, I will be posting my codes from #100daysofcoding challenge
 
 ### Day-2
 
-1. Initializers in C++
-2. Deep copy and shallow copy
-3. Type conversions
+• Initializers in C++
+• Deep copy and shallow copy
+• Type conversions
 
+[Notes](https://github.com/Ru311/100-days-of-code/blob/master/Day%202.pdf)
 
 ### Day-3
 
-1. Dynamic Constructor
-2. Namespace
-3. Nested class
+• Dynamic Constructor
+• Namespace
+• Nested class
+
+[Notes](https://github.com/Ru311/100-days-of-code/blob/master/DAY%203.pdf)
 
 ### Day-4
 
@@ -37,19 +40,23 @@ STL C++
 •List
 •String
 
+[Notes](https://github.com/Ru311/100-days-of-code/blob/master/Day%205.pdf)
 
 ### Day-6
 
-1. Least Common Multiple
-2. Greatest Common Divisor
-3. Last digit of a Fibonacci number
-4. Fibonacci number
+• Rate of growth
+• Asymptotic notation
+• Big O notation
+
+[Notes](https://github.com/Ru311/100-days-of-code/blob/master/DSA%20Day%201.pdf)
 
 ### Day-7
+Below are the problems I solved for practice:
+1. [Least Common Multiple](https://github.com/Ru311/100-days-of-code/blob/master/LCM.cpp)
+2. [Greatest Common Divisor](https://github.com/Ru311/100-days-of-code/blob/master/GCD.cpp)
+3. [Last digit of a Fibonacci number](https://github.com/Ru311/100-days-of-code/blob/master/Last%20digit%20of%20fibonnacci.cpp)
+4. [Fibonacci number](https://github.com/Ru311/100-days-of-code/blob/master/Fibonnacci.cpp)
 
-Rate of growth
-Asymptotic notation
-Big O notation
 
 ### Day-8
 
