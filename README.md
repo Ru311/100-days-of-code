@@ -59,14 +59,62 @@ Below are the problems I solved for practice:
 
 
 ### Day-8
+From this day onwards I will start practicing problems of the first Data Structure **Array**
+
+1.[ Array1]()
+2.[ Array2]()
+3.[ Array3]()
+4.[ Array4]()
+5.[ Array5]()
 
 ### Day-9
+6. [Array6]()
+7.[ Array7]()
+8. [Array8]()
+9. [Array9]()
+10.[ Array10]()
+
 ### Day-10
+11. [Array]()
+12. [Array]()
+13. [Array]()
+
 ### Day-11
+14.[ Array]()
+15.[ Array]()
+16.[ Array]()
+17.[ Array]()
+
 ### Day-12
+19.[ Array]()
+20.[ Array]()
+21.[ Array]()
+
+
 ### Day-13
+22.[ Array]()
+23.[ Array]()
+24.[ Array]()
+
 ### Day-14
+25.[ Array]()
+26.[ Array]()
+27.[ Array]()
+
 ### Day-15
+28.[ Array]()
+29.[ Array]()
+30.[ Array]()
+
 ### Day-16
+31.[ Array]()
+32.[ Array]()
+33.[ Array]()
+
 ### Day-17
+34.[ Array]()
+35.[ Array]()
+
 ### Day-18
+36.[ Array]()
+37.[ Array]()
