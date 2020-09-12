@@ -76,41 +76,42 @@ I will solve total 50 questions
 10. [Array10](https://github.com/Ru311/100-days-of-code/blob/master/Array10.cpp)
 
 ### Day-10
-11. [Array]()
-12. [Array]()
-13. [Array]()
+11. [0 to 5](https://github.com/Ru311/100-days-of-code/blob/master/0%20to%205.cpp)
+12. [sum of array](https://github.com/Ru311/100-days-of-code/blob/master/sum%20of%20array.cpp)
+13. [union](https://github.com/Ru311/100-days-of-code/blob/master/union.cpp)
 
 ### Day-11
-14. [ Array]()
-15. [ Array]()
-16. [ Array]()
-17. [ Array]()
+14. [ Array](https://github.com/Ru311/100-days-of-code/blob/master/Array14.cpp)
+15. [ Array](https://github.com/Ru311/100-days-of-code/blob/master/Array15.cpp)
+16. [ Array](https://github.com/Ru311/100-days-of-code/blob/master/Array16.cpp)
+17. [ Array](https://github.com/Ru311/100-days-of-code/blob/master/Array17.cpp)
 
 ### Day-12
-19. [ Array]()
-20. [ Array]()
-21. [ Array]()
+18. [operations](https://github.com/Ru311/100-days-of-code/blob/master/operations.cpp)
+19. [finding element](https://github.com/Ru311/100-days-of-code/blob/master/finding%20element.cpp)
+20. [minimum index](https://github.com/Ru311/100-days-of-code/blob/master/minimum%20index.cpp)
+21. [product of elements.](https://github.com/Ru311/100-days-of-code/blob/master/product%20of%20elements.cpp)
 
 
 ### Day-13
-22. [ Array]()
-23. [ Array]()
-24. [ Array]()
+22. [binary search](https://github.com/Ru311/100-days-of-code/blob/master/binary%20search.cpp)
+23. [number of numbers](https://github.com/Ru311/100-days-of-code/blob/master/number%20of%20numbers.cpp)
+24. [third largest ele](https://github.com/Ru311/100-days-of-code/blob/master/third%20largest%20ele.cpp)
 
 ### Day-14
-25. [ Array]()
-26. [ Array]()
-27. [ Array]()
+25. [duplicate](https://github.com/Ru311/100-days-of-code/blob/master/duplicate.cpp)
+26. [Inverse Permutation](https://github.com/Ru311/100-days-of-code/blob/master/Inverse%20Permutation.cpp)
+27. [sum of distinct ele](https://github.com/Ru311/100-days-of-code/blob/master/sum%20of%20distinct%20ele.cpp)
 
 ### Day-15
-28. [ Array]()
-29. [ Array]()
-30. [ Array]()
+28. [min max.](https://github.com/Ru311/100-days-of-code/blob/master/min%20max.cpp)
+29. [min of first and max of second.](https://github.com/Ru311/100-days-of-code/blob/master/min%20of%20first%20and%20max%20of%20second.cpp)
+30. [balancing](https://github.com/Ru311/100-days-of-code/blob/master/balancing.cpp)
 
 ### Day-16
-31. [ Array]()
-32. [ Array]()
-33. [ Array]()
+31. [matrix exchange](https://github.com/Ru311/100-days-of-code/blob/master/matrix%20exchange.cpp)
+32. [array ds.cpp](https://github.com/Ru311/100-days-of-code/blob/master/array%20ds.cpp)
+33. [swaping](https://github.com/Ru311/100-days-of-code/blob/master/swaping.cpp)
 
 ### Day-17
 34. [candles](https://github.com/Ru311/100-days-of-code/blob/master/candles.cpp)
