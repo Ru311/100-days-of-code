@@ -120,3 +120,8 @@ I will solve total 50 questions
 ### Day-18
 36. [Total count](https://github.com/Ru311/100-days-of-code/blob/master/Total%20count.cpp)
 37. [longest subarray](https://github.com/Ru311/100-days-of-code/blob/master/longest%20subarray.cpp)
+
+### Day-19
+38. [Adding ones](https://github.com/Ru311/100-days-of-code/blob/master/Adding%20ones.cpp)
+39. [Count the zeros](https://github.com/Ru311/100-days-of-code/blob/master/Count%20the%20zeros.cpp)
+40. [Move all zeros to right](https://github.com/Ru311/100-days-of-code/blob/master/Move%20all%20zeros%20to%20right.cpp)
